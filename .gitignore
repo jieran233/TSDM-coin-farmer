@@ -9,3 +9,6 @@ src/testing2.py
 *.txt
 *.log
 *.json
+
+venv/
+.env/
